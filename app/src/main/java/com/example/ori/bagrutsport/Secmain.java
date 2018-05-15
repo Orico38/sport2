@@ -40,7 +40,7 @@ public class Secmain extends AppCompatActivity implements AdapterView.OnItemSele
 
 
         spinner = (Spinner) (findViewById(R.id.spinner));
-        arry[0]="כפיפות בטן";
+        arry[0]="כפיפות בטן1";
         arry[1]="שכיבות סמיכה";
         arry[2]="מתח";
         arry[3]="מרפקים";
