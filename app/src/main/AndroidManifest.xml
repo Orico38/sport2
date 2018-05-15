@@ -20,7 +20,8 @@
         </activity>
         <activity android:name=".Exs" />
         <activity android:name=".credits" />
-        <activity android:name=".Credits"></activity>
+        <activity android:name=".Credits" />
+        <activity android:name=".Secmain"></activity>
     </application>
 
 </manifest>
